@@ -2,10 +2,10 @@
   "name": "friendfinder",
   "version": "1.0.0",
   "description": "",
-  "main": "/app/server.js",
+  "main": "app/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node /app/server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
