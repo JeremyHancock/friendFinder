@@ -19,6 +19,7 @@
   "homepage": "https://github.com/JeremyHancock/friendFinder#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "node": "^11.0.0",
     "path": "^0.12.7"
   }
 }
