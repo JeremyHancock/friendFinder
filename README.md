@@ -1,6 +1,6 @@
 # friendFinder
 
-Try the game out by clicking here: https://pure-caverns-21408.herokuapp.com/
+Check it out by clicking here: https://pure-caverns-21408.herokuapp.com/
 
 This is a simple quiz that will match new visitors to previous visitors based on the overall similarity to their answers. 
 
